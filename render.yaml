@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: ueda.now.835353
+    name: 
     env: python
     region: Oregon
     plan: free
