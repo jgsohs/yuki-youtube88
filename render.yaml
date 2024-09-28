@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: yukibbbs.east
+    name: slim2-by-ahaha
     env: python
     region: Oregon
     plan: free
