@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: slim2-by-ahaha
+    name: slim2-by-renren-1-jsu
     env: python
     region: Oregon
     plan: free
